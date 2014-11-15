@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/res/values/attrs.xml -->
+    <!-- From: file:/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/res/values/attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="SlidingMenu">
@@ -31,7 +31,7 @@
         <attr name="selectorEnabled" format="boolean" />
         <attr name="selectorDrawable" format="reference" />
     </declare-styleable>
-    <!-- From: file:/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/res/values/ids.xml -->
+    <!-- From: file:/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/res/values/ids.xml -->
     <eat-comment />
 
     <item name="selected_view" type="id"/>

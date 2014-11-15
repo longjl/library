@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/src/main/assets" />
+        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/src/main/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/src/release/assets" />
+        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/src/release/assets" />
     </dataSet>
 
 </merger>

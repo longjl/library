@@ -2,14 +2,14 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/res" >
+        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/res" >
             <file
                 name="slidingmenumain"
-                path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/res/layout/slidingmenumain.xml"
+                path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/res/layout/slidingmenumain.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/res/values/attrs.xml"
+                path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/res/values/attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="SlidingMenu" >
                     <attr name="mode" >
@@ -78,18 +78,18 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/res/values/ids.xml"
+                path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/res/values/ids.xml"
                 qualifiers="" >
                 <item
                     name="selected_view"
                     type="id"/>
             </file>
         </source>
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/build/generated/res/rs/release" />
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/build/generated/res/generated/release" />
+        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/build/generated/res/rs/release" />
+        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/build/generated/res/generated/release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-app-platform/deps/SlidingMenuLibrary/src/release/res" />
+        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/slidingmenu/src/release/res" />
     </dataSet>
 
 </merger>
